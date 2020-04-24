@@ -1,7 +1,5 @@
 **powx_joblisting is a Script for Interim Jobs on [RageUI] and [ESX]**
 
-Important
-
 ``` Important```
 
 > You are not allowed to modify the resource name
