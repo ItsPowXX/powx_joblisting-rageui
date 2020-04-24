@@ -1,4 +1,4 @@
-powx_joblisting is a Script for Interim Jobs on [RageUI] and [ESX]
+**powx_joblisting is a Script for Interim Jobs on [RageUI] and [ESX]**
 
 Important
 
