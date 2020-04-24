@@ -2,7 +2,7 @@
 
 Important
 
-> Important
+``` Important```
 
 > You are not allowed to modify the resource name
 
